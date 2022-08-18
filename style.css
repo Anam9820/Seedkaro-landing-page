@@ -1,0 +1,26 @@
+.top{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    opacity: 0.5;
+    border-bottom: 5px green solid;
+}
+.logo-img{
+    margin-left: 60px;
+}
+.navbar ul{
+    list-style-type: none;
+    display: flex;
+    margin: 30px;
+    
+}
+.navbar ul li{
+    margin: 10px;
+}
+.navbar ul li a{
+    color: black;
+    text-decoration: none;
+}
+.navbar ul li a:hover{
+    color: aquamarine;
+}
