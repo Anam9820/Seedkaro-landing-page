@@ -24,3 +24,6 @@
 .navbar ul li a:hover{
     color: aquamarine;
 }
+.container{
+    margin-top: 100px;
+}
