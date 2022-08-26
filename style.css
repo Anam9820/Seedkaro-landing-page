@@ -27,15 +27,11 @@
 .container{
     margin-top: 100px;
 }
-.section-end{
+.flex ul{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-}
-.flex ul li{
     list-style-type: none;
 }
-.flex{
-    display: flex;
-    flex-direction: row;
+.flex ul li{
+    padding: 10px;
 }
