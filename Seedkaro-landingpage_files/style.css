@@ -3,7 +3,7 @@
     justify-content: space-between;
     background-color: white;
     opacity: 0.5;
-    border-bottom: 5px rgb(56, 233, 56) solid;
+    border-bottom: 5px green solid;
 }
 .logo-img{
     margin-top: 30px;
@@ -26,7 +26,7 @@
     text-decoration: none;
 }
 .navbar ul li a:hover{
-    color: rgb(56, 233, 56);
+    color: green;
 }
 .container{
     margin-top: 5px;
@@ -34,16 +34,7 @@
 .container1{
    margin-left: 50px;  
 }
-.background{
-    background-color: rgb(56, 233, 56);
-    padding: 30px;
-    color: white;
-}
-.button2{
-    margin-left: 150px;
-    margin-top: 20px;
-    
-}
+
 
 .banner-image1{
     height: 250px;
