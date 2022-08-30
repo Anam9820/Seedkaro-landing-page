@@ -28,10 +28,7 @@
 .navbar ul li a:hover{
     color: rgb(56, 233, 56);
 }
-h2{
-    text-align: center;
-    color: rgb(56, 233, 56);
-}
+
 h1{
     color: rgb(56, 233, 56);
 }
@@ -41,7 +38,7 @@ h1{
 .background{
     background-color: rgb(56, 233, 56);
     padding: 30px;
-    color: white;
+    
 }
 .button2{
     margin-left: 150px;
