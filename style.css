@@ -5,12 +5,6 @@
 body{
     padding-top: 160px;
 }
-.owl-next, .owl-prev {
-    width: 30px;
-    height: 35px;
-    margin: 10px;
-    }
-
 .navbar ul{
     list-style-type: none;
     display: flex;
